@@ -1,1 +1,1 @@
-# AlurFlix
+# AluraFlix
